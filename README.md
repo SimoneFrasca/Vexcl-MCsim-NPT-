@@ -59,7 +59,6 @@ particelle a forma di parallelepipedo con base di semiassi di lunghezza
   Per i file che permettono la visualizzazione abbiamo:
   1) "cnf-final.mgl" che contiene la configurazione finale delle hard box
   2) "cnf-tot.mgl" che contiene la configurazione finale e iniziale delle hard box
-  
-  Per visualizzare le immagine eseguire su terminale il comando
-  "molgl/./molgl nome-file"
-  Verrà richiesto di scaricare alcuni pacchetti che serviranno per eseguire molgl
+ 
+  Questi salvano la posizione, l'orientazione e la lunghezza dei semiassi 
+  di ogni singola hard box
